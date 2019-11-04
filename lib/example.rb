@@ -3,7 +3,7 @@
 
 
 def greeting
-  puts "Hello World!
+  puts "Hello World!"
 greeting
 greeting
 greeting
